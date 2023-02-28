@@ -8,10 +8,6 @@
 ----------
 <img src="./img/3.jpg" width="600px"></img>
 ----------
-<img src="./img/4.jpg" width="600px"></img>
-----------
-<img src="./img/5.jpg" width="600px"></img>
-
 
 ## ⌨️ Sobre o projeto
 
